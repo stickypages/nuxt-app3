@@ -10,7 +10,7 @@ definePageMeta({
 <template>
   <div>
     Hello
-    <test />
+    <Test />
     <img src="/img/MyShout-Blue.png" />
   </div>
 </template>
